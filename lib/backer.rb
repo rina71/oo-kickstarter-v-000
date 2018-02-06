@@ -8,7 +8,7 @@ class Backer
   end
 
   def back_project(project)
-    binding.pry
+    # binding.pry
     # a = Project.new(project)
     @backed_projects << a
   end
